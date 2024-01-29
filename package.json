@@ -1,6 +1,6 @@
 {
-	"author": "Mark Adrian Tamayo",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mark Adrian Tamayo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
